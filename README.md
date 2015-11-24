@@ -1,6 +1,7 @@
 # Scrapy Elite Proxies
 
 Scrapy Elite Proxies (http://elite.proxies.online) middleware
+http://rev.proxies.online
 
 Grab new proxy from your Elite Proxies account.
 
